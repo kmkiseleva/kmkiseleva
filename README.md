@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Ksenia. I am a beginner frontend developer.
 
