@@ -5,9 +5,7 @@ My name is Ksenia. I am a beginner frontend developer.
 #### My current stack:
 
 JavaScript;  
-
 React/Redux-ReduxToolkit;  
-
 HTML+CSS;
 ESlint/Prettier;
 Appveyor/Heroku;
