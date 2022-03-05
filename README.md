@@ -6,13 +6,13 @@ My name is Ksenia. I am a beginner frontend developer.
 
 JavaScript;  
 React/Redux-ReduxToolkit;  
-HTML+CSS;
-ESlint/Prettier;
-Appveyor/Heroku;
-WebPack;
-Jest;
-Git;
-Figma/Adobe Photoshop;
+HTML+CSS;  
+ESlint/Prettier;  
+Appveyor/Heroku;  
+WebPack;  
+Jest;  
+Git;  
+Figma/Adobe Photoshop;  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkiseleva&layout=compact)
 
