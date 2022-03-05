@@ -9,9 +9,7 @@ React/Redux-ReduxToolkit;
 HTML+CSS;  
 ESlint/Prettier;  
 Appveyor/Heroku;  
-WebPack;  
-Jest;  
-Git;  
+WebPack; Git; Jest;
 Figma/Adobe Photoshop;  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkiseleva&layout=compact)
