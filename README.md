@@ -7,7 +7,7 @@ My name is Ksenia. I am a beginner frontend developer.
 JavaScript;  
 React/Redux-ReduxToolkit;  
 HTML+CSS;  
-ESlint/Prettier;  
+ESLint/Prettier;  
 Appveyor/Heroku;  
 WebPack; Git; Jest;  
 Figma/Adobe Photoshop;  
