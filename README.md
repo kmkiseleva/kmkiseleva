@@ -9,7 +9,7 @@ React/Redux-ReduxToolkit;
 HTML+CSS;  
 ESLint/Prettier;  
 Appveyor/Heroku;  
-WebPack; Git; Jest;  
+Webpack; Git; Jest;  
 Figma/Adobe Photoshop;  
 
 **Languages and Tools:**
