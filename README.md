@@ -1,4 +1,5 @@
-My name is Ksenia. Welcome to my GH collection.
+Welcome to my GH collection.
+My name is Ksenia.
 
 #### My current stack:
 
