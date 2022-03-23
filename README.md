@@ -1,6 +1,4 @@
-### Hello! 👋
-
-My name is Ksenia. I am a beginner frontend developer.
+My name is Ksenia. Welcome to my GH collection.
 
 #### My current stack:
 
