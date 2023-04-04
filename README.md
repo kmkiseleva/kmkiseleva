@@ -4,11 +4,10 @@ My name is Ksenia.
 #### My current stack:
 
 JavaScript / TypeScript;  
-React / Redux-ReduxToolkit;  
-HTML, CSS, SCSS;  
+React / Redux-ReduxToolkit / MobX;  
+HTML, CSS, SCSS, styled-components;  
 ESLint / Prettier;  
-Appveyor / Heroku;  
-Webpack; Git; Jest;  
+Storybook;  
 Figma / Adobe Photoshop;  
 
 **Languages and Tools:**
